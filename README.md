@@ -1,6 +1,6 @@
 # Dataquest Projects
 
-A repository of all completed Dataquest guided projects whilst studying the data analyst course.
+A repository of all completed Dataquest guided projects whilst studying the data analyst/scientist course.
 
 - Clean and Analyze Employee Exit Surveys
 - Exploring Ebay Car Sales Data
@@ -12,3 +12,5 @@ A repository of all completed Dataquest guided projects whilst studying the data
 - Finding The Best Markets To Advertise In
 - Investigating Fandango Movie Ratings
 - Star Wars Survey
+
+- Predicting Car Prices
