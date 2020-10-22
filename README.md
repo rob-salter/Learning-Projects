@@ -15,4 +15,4 @@ A repository of all completed Dataquest guided projects whilst studying the data
 
 - Predicting Car Prices
 
-Exploratory
+Projects can be viewed using nbviewer (https://nbviewer.jupyter.org/) if Github's ipynb glitch continues.
