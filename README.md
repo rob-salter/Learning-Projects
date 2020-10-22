@@ -1,4 +1,4 @@
-# Dataquest Projects
+# Learning Projects
 
 A repository of all completed Dataquest guided projects whilst studying the data analyst/scientist course.
 
@@ -14,3 +14,5 @@ A repository of all completed Dataquest guided projects whilst studying the data
 - Star Wars Survey
 
 - Predicting Car Prices
+
+Exploratory
